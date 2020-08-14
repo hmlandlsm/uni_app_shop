@@ -1,0 +1,46 @@
+{
+    "orderNo": "order_1587909981148",
+    "orderStatus": "待支付",
+    "createTime": 1587909981148,
+    "addressData": {
+        "_id": "5ea5740bd1979d004c10a87b",
+        "addressDetail": "广东省广州市海珠区广州大道南999号",
+        "addressName": "海珠区政府",
+        "area": "45号",
+        "createTime": "2020-04-26T11:44:11.783Z",
+        "isDefault": false,
+        "isDelete": false,
+        "mobile": "13633442222",
+        "name": "大宝",
+        "updateTimer": "2020-04-26T11:53:09.958Z",
+        "userId": "5e9d5286f8eeb6004dbf90a4"
+    },
+    "total": "7043.88",
+    "realTotal": "7043.88",
+    "itemList": [
+        {
+            "sku": "大",
+            "number": 5,
+            "image": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-maxmall/d4561070-8394-11ea-8bd0-2998ac5bbf7e.jpg",
+            "goodId": 3,
+            "title": "大白菜",
+            "price": 1348
+        },
+        {
+            "sku": "小",
+            "number": 1,
+            "image": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-maxmall/d44d36d0-8394-11ea-b997-9918a5dda011.jpg",
+            "goodId": 4,
+            "title": "韭菜",
+            "price": 175.88
+        },
+        {
+            "sku": " 中",
+            "number": 1,
+            "image": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-maxmall/d3da50c0-8394-11ea-b997-9918a5dda011.jpg",
+            "goodId": 6,
+            "title": "青色的菜",
+            "price": 128
+        }
+    ]
+}
